@@ -14,4 +14,4 @@ Another thing is It's just a published version of the VS solution, which wouldn'
 Complete all items listed on the Instructions. That includes creating dev and feature-1 branches, creating the pull/merge requests, adding comments, reverting changes, and merging the requested branches.
 
 
-This is the change
+Changes made in FEATURE1 branch, will request pull to dev branch.
